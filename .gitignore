@@ -1,4 +1,3 @@
-*
-!.*
-!src
-!headers
+build/
+main.cpp
+CMakeLists.txt
